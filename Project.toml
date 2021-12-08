@@ -1,0 +1,13 @@
+name = "DecayFit"
+uuid = "1e8b80e8-2fd8-4d4f-89d2-1a5e31272f4b"
+authors = ["Gregory Alspaugh", "Shureed Qazi", "Jay R. Knutson"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
